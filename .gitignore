@@ -1,0 +1,9 @@
+#Ignore files without an extension
+*
+!/**/
+!*.*
+
+#Include Makefile
+!Makefile
+
+*.cc.o
