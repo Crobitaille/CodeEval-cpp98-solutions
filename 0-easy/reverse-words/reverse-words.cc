@@ -1,3 +1,11 @@
+/*
+       Challenge Name: Reverse Words
+     Challenge Rating: Easy
+Challenge Description: https://www.codeeval.com/open_challenges/8/
+                Score: 34.974 / 35
+          Solution By: Christopher Robitaille
+         Submitted On: Oct 27, 2017
+*/
 #include <iostream>
 #include <fstream>
 #include <vector>
