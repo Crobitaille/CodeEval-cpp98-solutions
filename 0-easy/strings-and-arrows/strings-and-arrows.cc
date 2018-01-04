@@ -1,8 +1,8 @@
 /*
        Challenge Name: Strings and Arrows
      Challenge Rating: Easy
-Challenge Description: https://www.codeeval.com/open_challenges/29/
-                Score:  / 35
+Challenge Description: https://www.codeeval.com/open_challenges/203/
+                Score: 34.921 / 35
           Solution By: Christopher Robitaille
          Submitted On: Jan 04, 2018
 */
